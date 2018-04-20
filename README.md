@@ -67,4 +67,4 @@ I'm not responsible for any harmful use of this software. This was created for f
 
 ### Conclusion
 
-That's it! Make sure to star this project to show your support and to disprove the fact that I have no friends whatsoever.And please use it for good.
+That's it! Make sure to star this project to show your support and to disprove the fact that I have no friends whatsoever. And please use it for good.
