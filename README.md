@@ -58,7 +58,7 @@ After this step, there wil two folders created, out of which the executable is p
 The awesome part is you can delete these extra folders, and keep the executable alone. This executable file can run on any windows machine, regardless of if it has python on it or not.
 
 
-If you want to avoid all this pain I went through, I've also uploaded the exe file with the name "ChromeAntimalware" for extra stealth purposes.
+#### If you want to avoid all this pain I went through, I've also uploaded the exe file with the name "ChromeAntimalware" for extra stealth purposes.
 
 
 ## WARNING
