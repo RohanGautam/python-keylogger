@@ -54,7 +54,7 @@ After this step, there wil two folders created, out of which the executable is p
 The awesome part is you can delete these extra folders, and keep the executable alone. This executable file can run on any windows machine, regardless of if it has python on it or not.
 
 
-#### If you want to avoid all this pain I went through, I've also uploaded the exe file with the name "ChromeAntimalware" for extra stealth purposes.
+#### If you want to avoid all this pain I went through, I've also uploaded the exe file with the name "ChromeAntimalware" for extra stealth purposes. Note that this file works on windows 10. PyInstaller makes exe files that works only on one type of os.(Ex: if you make it on win 8, it will NOT work on windows 10, and so on.)
 
 
 ## WARNING
